@@ -2,7 +2,8 @@
 
 <img width="1920" height="867" alt="Image" src="https://github.com/user-attachments/assets/a5645e63-8b33-4f3d-abca-fc94f0ae1c34" />
 
-**Live Demo:** [Click Here to Play](https://your-game-link.com)  
+
+**Live Demo:** [Click Here to Play](https://candy-crush-inspired-game.onrender.com)  
 **Developed by:** Abhishek Vats  
 
 ---
