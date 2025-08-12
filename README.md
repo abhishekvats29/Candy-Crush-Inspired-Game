@@ -1,14 +1,13 @@
 # Candy Crush-Inspired Game
 
-![Game Demo Screenshot](public/demo-screenshot.png)  
-*(Replace with your actual screenshot path)*
+<img width="1920" height="867" alt="Image" src="https://github.com/user-attachments/assets/a5645e63-8b33-4f3d-abca-fc94f0ae1c34" />
 
 **Live Demo:** [Click Here to Play](https://your-game-link.com)  
 **Developed by:** Abhishek Vats  
 
 ---
 
-## 📖 Overview
+## Overview
 Welcome to the **Candy Crush-inspired match-3 game**!  
 Your goal? Match three or more candies of the same color to score points and aim for the **highest score possible**.  
 The game features **intuitive drag-and-drop mechanics**, colorful candy designs, and smooth animations — perfect for both desktop and mobile play.
@@ -28,7 +27,7 @@ The game features **intuitive drag-and-drop mechanics**, colorful candy designs,
 
 ---
 
-## 🛠 Technology Stack
+## Technology Stack
 
 ### Frontend
 - **React.js** – Interactive UI for a smooth gaming experience.  
@@ -59,5 +58,5 @@ The game features **intuitive drag-and-drop mechanics**, colorful candy designs,
 ## 🧑‍💻 Author
 **Abhishek Vats**  
 
-
+© 2025 Abhishek Vats. All rights reserved.
 ---
